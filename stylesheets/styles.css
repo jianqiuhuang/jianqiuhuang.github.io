@@ -5,11 +5,11 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
-  background-color: black;
+  background-color: #040507;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: #4E83FC;
   margin:0 0 20px;
 }
 
@@ -23,9 +23,9 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  color: #808080;
+  color: #4E83FC;
 }
-
+/*
 h2 {
   color:#393939;
 }
@@ -33,9 +33,9 @@ h2 {
 h3, h4, h5, h6 {
   color:#494949;
 }
-
+*/
 a {
-  color:#39c;
+  color:#9EB9F6;
   font-weight:400;
   text-decoration:none;
 }
