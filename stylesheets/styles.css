@@ -5,6 +5,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
+  background-color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,6 +23,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  color: #808080;
 }
 
 h2 {
@@ -43,6 +45,10 @@ a small {
   color:#777;
   margin-top:-0.6em;
   display:block;
+}
+
+a:hover{
+  text-decoration: underline;
 }
 
 .wrapper {
