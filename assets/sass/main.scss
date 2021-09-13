@@ -300,7 +300,12 @@
 	}
 
 /* Image */
-
+	.about-me-content img {
+		float: left;
+		width: 50%;
+		height: 50%;
+		display: block;
+	}
 	.image {
 		display: inline-block;
 		border: 0;
