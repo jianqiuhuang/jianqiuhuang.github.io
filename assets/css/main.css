@@ -1744,6 +1744,13 @@ input, select, textarea {
 
 /* Image */
 
+	.about-me-content img {
+		float: left;
+		width: 50%;
+		height: 50%;
+		display: block;
+	}
+
 	.image {
 		display: inline-block;
 		border: 0;
@@ -2241,7 +2248,7 @@ input, select, textarea {
 					}
 
 			#main > section.cover {
-				padding: 10em 0;
+				padding: 25em 0;
 				background-size: cover;
 				background-position: center center;
 			}
@@ -2304,7 +2311,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 5em 0;
+				padding: 20em 0;
 			}
 
 	}
@@ -2570,7 +2577,7 @@ input, select, textarea {
 				}
 
 				#main section.cover {
-					padding: 4em 0;
+					padding: 18em 0;
 				}
 
 	}
@@ -2609,7 +2616,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 4em 0em;
+				padding: 18em 0em;
 			}
 
 				#main section.cover header {
